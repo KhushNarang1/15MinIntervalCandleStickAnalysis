@@ -1,0 +1,1135 @@
+index,date,combination,InitialInvestment,InvestmentUsingPattern,InvestmentWithoutPattern
+0.0,2023-03-01,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,100.56307279335948
+1.0,2023-03-02,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,99.40963751686137
+2.0,2023-03-03,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,100.80825155791132
+3.0,2023-03-06,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,100.22341186684652
+4.0,2023-03-08,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,100.48540254447164
+5.0,2023-03-09,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,98.93512566079885
+6.0,2023-03-10,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,99.85553606438964
+7.0,2023-03-13,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,98.63792123706368
+8.0,2023-03-14,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,99.46446937889522
+9.0,2023-03-15,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,98.87804409181862
+10.0,2023-03-16,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,100.0912051733928
+11.0,2023-03-17,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,100.06954265477624
+12.0,2023-03-20,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,99.62997902335556
+13.0,2023-03-21,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,100.27285409486296
+14.0,2023-03-22,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,99.79799097072032
+15.0,2023-03-23,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,99.83067600921775
+16.0,2023-03-24,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,99.15906349187756
+17.0,2023-03-27,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,99.8772395683072
+18.0,2023-03-28,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,99.56023309407428
+19.0,2023-03-29,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,100.81903482885971
+20.0,2023-03-31,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,100.85965712492774
+21.0,2023-04-03,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,99.83790405641513
+22.0,2023-04-05,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,100.79610613983228
+23.0,2023-04-06,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,100.38867675952515
+24.0,2023-04-10,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,99.87609796483108
+25.0,2023-04-11,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,100.09856084225748
+26.0,2023-04-12,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,100.3285556221864
+27.0,2023-04-13,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,100.11708681271163
+28.0,2023-04-17,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,99.11045177181884
+29.0,2023-04-18,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,99.40872198394742
+30.0,2023-04-19,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,99.75557047245992
+31.0,2023-04-20,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,99.91666005238513
+32.0,2023-04-21,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,99.8818010459332
+33.0,2023-04-24,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,100.22843363424076
+34.0,2023-04-25,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,100.0022520557046
+35.0,2023-04-26,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,100.28507426564532
+36.0,2023-04-27,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,100.6180844434714
+37.0,2023-04-28,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,100.54873429004368
+38.0,2023-05-02,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,100.06206965042372
+39.0,2023-05-03,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,99.82830769910235
+40.0,2023-05-04,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,100.87163320612795
+41.0,2023-05-05,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,99.73864759097658
+42.0,2023-05-08,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,100.82309636546252
+43.0,2023-05-09,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,99.75359769223203
+44.0,2023-05-10,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,99.98634894286214
+45.0,2023-05-11,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,99.70966019893451
+46.0,2023-05-12,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,100.21041110883098
+47.0,2023-05-15,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,100.24701051839492
+48.0,2023-05-16,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,99.155832001888
+49.0,2023-05-17,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,99.43990448322307
+50.0,2023-05-18,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,99.16418318523584
+51.0,2023-05-19,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,100.10612471578646
+52.0,2023-05-22,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,100.56150452445182
+53.0,2023-05-23,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,99.84125601076082
+0.0,2023-03-01,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,100.56307279335948
+1.0,2023-03-02,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,99.40963751686137
+2.0,2023-03-03,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,100.80825155791132
+3.0,2023-03-06,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,100.22341186684652
+4.0,2023-03-08,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,100.48540254447164
+5.0,2023-03-09,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,98.93512566079885
+6.0,2023-03-10,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,99.85553606438964
+7.0,2023-03-13,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,98.63792123706368
+8.0,2023-03-14,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,99.46446937889522
+9.0,2023-03-15,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,98.87804409181862
+10.0,2023-03-16,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,100.0912051733928
+11.0,2023-03-17,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,100.06954265477624
+12.0,2023-03-20,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,99.62997902335556
+13.0,2023-03-21,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,100.27285409486296
+14.0,2023-03-22,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,99.79799097072032
+15.0,2023-03-23,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,99.83067600921775
+16.0,2023-03-24,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,99.15906349187756
+17.0,2023-03-27,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,99.8772395683072
+18.0,2023-03-28,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,99.56023309407428
+19.0,2023-03-29,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,100.81903482885971
+20.0,2023-03-31,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,100.85965712492774
+21.0,2023-04-03,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,99.83790405641513
+22.0,2023-04-05,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,100.79610613983228
+23.0,2023-04-06,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,100.38867675952515
+24.0,2023-04-10,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,99.87609796483108
+25.0,2023-04-11,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,100.09856084225748
+26.0,2023-04-12,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,100.3285556221864
+27.0,2023-04-13,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,100.11708681271163
+28.0,2023-04-17,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,99.11045177181884
+29.0,2023-04-18,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,99.40872198394742
+30.0,2023-04-19,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,99.75557047245992
+31.0,2023-04-20,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,99.91666005238513
+32.0,2023-04-21,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,99.8818010459332
+33.0,2023-04-24,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,100.22843363424076
+34.0,2023-04-25,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,100.0022520557046
+35.0,2023-04-26,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,100.28507426564532
+36.0,2023-04-27,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,100.6180844434714
+37.0,2023-04-28,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,100.54873429004368
+38.0,2023-05-02,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,100.06206965042372
+39.0,2023-05-03,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,99.82830769910235
+40.0,2023-05-04,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,100.87163320612795
+41.0,2023-05-05,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,99.73864759097658
+42.0,2023-05-08,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,100.82309636546252
+43.0,2023-05-09,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,99.75359769223203
+44.0,2023-05-10,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,99.98634894286214
+45.0,2023-05-11,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,99.70966019893451
+46.0,2023-05-12,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,100.21041110883098
+47.0,2023-05-15,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,100.24701051839492
+48.0,2023-05-16,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,99.155832001888
+49.0,2023-05-17,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,99.43990448322307
+50.0,2023-05-18,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,99.16418318523584
+51.0,2023-05-19,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,100.10612471578646
+52.0,2023-05-22,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,100.56150452445182
+53.0,2023-05-23,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,99.84125601076082
+0.0,2023-03-01,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,100.56307279335948
+1.0,2023-03-02,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,99.40963751686137
+2.0,2023-03-03,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,100.80825155791132
+3.0,2023-03-06,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,100.22341186684652
+4.0,2023-03-08,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,100.48540254447164
+5.0,2023-03-09,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,98.93512566079885
+6.0,2023-03-10,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,99.85553606438964
+7.0,2023-03-13,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,98.63792123706368
+8.0,2023-03-14,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,99.46446937889522
+9.0,2023-03-15,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,98.87804409181862
+10.0,2023-03-16,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,100.0912051733928
+11.0,2023-03-17,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,100.06954265477624
+12.0,2023-03-20,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,99.62997902335556
+13.0,2023-03-21,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,100.27285409486296
+14.0,2023-03-22,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,99.79799097072032
+15.0,2023-03-23,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,99.83067600921775
+16.0,2023-03-24,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,99.15906349187756
+17.0,2023-03-27,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,99.8772395683072
+18.0,2023-03-28,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,99.56023309407428
+19.0,2023-03-29,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,100.81903482885971
+20.0,2023-03-31,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,100.85965712492774
+21.0,2023-04-03,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,99.83790405641513
+22.0,2023-04-05,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,100.79610613983228
+23.0,2023-04-06,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,100.38867675952515
+24.0,2023-04-10,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,99.87609796483108
+25.0,2023-04-11,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,100.09856084225748
+26.0,2023-04-12,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,100.3285556221864
+27.0,2023-04-13,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,100.11708681271163
+28.0,2023-04-17,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,99.11045177181884
+29.0,2023-04-18,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,99.40872198394742
+30.0,2023-04-19,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,99.75557047245992
+31.0,2023-04-20,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,99.91666005238513
+32.0,2023-04-21,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,99.8818010459332
+33.0,2023-04-24,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,100.22843363424076
+34.0,2023-04-25,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,100.0022520557046
+35.0,2023-04-26,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,100.28507426564532
+36.0,2023-04-27,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,100.6180844434714
+37.0,2023-04-28,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,100.54873429004368
+38.0,2023-05-02,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,100.06206965042372
+39.0,2023-05-03,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,99.82830769910235
+40.0,2023-05-04,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,100.87163320612795
+41.0,2023-05-05,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,99.73864759097658
+42.0,2023-05-08,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,100.82309636546252
+43.0,2023-05-09,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,99.75359769223203
+44.0,2023-05-10,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,99.98634894286214
+45.0,2023-05-11,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,99.70966019893451
+46.0,2023-05-12,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,100.21041110883098
+47.0,2023-05-15,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,100.24701051839492
+48.0,2023-05-16,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,99.155832001888
+49.0,2023-05-17,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,99.43990448322307
+50.0,2023-05-18,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,99.16418318523584
+51.0,2023-05-19,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,100.10612471578646
+52.0,2023-05-22,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,100.56150452445182
+53.0,2023-05-23,Engulfing+Hammer/Engulfing+Hanging man,100.0,100.0,99.84125601076082
+0.0,2023-03-01,Hammer/Shooting Star,100.0,100.0,100.56307279335948
+1.0,2023-03-02,Hammer/Shooting Star,100.0,100.0,99.40963751686137
+2.0,2023-03-03,Hammer/Shooting Star,100.0,100.0,100.80825155791132
+3.0,2023-03-06,Hammer/Shooting Star,100.0,100.0,100.22341186684652
+4.0,2023-03-08,Hammer/Shooting Star,100.0,100.0,100.48540254447164
+5.0,2023-03-09,Hammer/Shooting Star,100.0,100.0,98.93512566079885
+6.0,2023-03-10,Hammer/Shooting Star,100.0,100.0,99.85553606438964
+7.0,2023-03-13,Hammer/Shooting Star,100.0,100.0,98.63792123706368
+8.0,2023-03-14,Hammer/Shooting Star,100.0,100.0,99.46446937889522
+9.0,2023-03-15,Hammer/Shooting Star,100.0,100.0,98.87804409181862
+10.0,2023-03-16,Hammer/Shooting Star,100.0,100.0,100.0912051733928
+11.0,2023-03-17,Hammer/Shooting Star,100.0,100.0,100.06954265477624
+12.0,2023-03-20,Hammer/Shooting Star,100.0,100.0,99.62997902335556
+13.0,2023-03-21,Hammer/Shooting Star,100.0,100.0,100.27285409486296
+14.0,2023-03-22,Hammer/Shooting Star,100.0,100.0,99.79799097072032
+15.0,2023-03-23,Hammer/Shooting Star,100.0,100.0,99.83067600921775
+16.0,2023-03-24,Hammer/Shooting Star,100.0,100.0,99.15906349187756
+17.0,2023-03-27,Hammer/Shooting Star,100.0,100.0,99.8772395683072
+18.0,2023-03-28,Hammer/Shooting Star,100.0,100.0,99.56023309407428
+19.0,2023-03-29,Hammer/Shooting Star,100.0,100.0,100.81903482885971
+20.0,2023-03-31,Hammer/Shooting Star,100.0,100.0,100.85965712492774
+21.0,2023-04-03,Hammer/Shooting Star,100.0,100.0,99.83790405641513
+22.0,2023-04-05,Hammer/Shooting Star,100.0,100.0,100.79610613983228
+23.0,2023-04-06,Hammer/Shooting Star,100.0,100.0,100.38867675952515
+24.0,2023-04-10,Hammer/Shooting Star,100.0,100.0,99.87609796483108
+25.0,2023-04-11,Hammer/Shooting Star,100.0,100.0,100.09856084225748
+26.0,2023-04-12,Hammer/Shooting Star,100.0,100.0,100.3285556221864
+27.0,2023-04-13,Hammer/Shooting Star,100.0,100.0,100.11708681271163
+28.0,2023-04-17,Hammer/Shooting Star,100.0,100.0,99.11045177181884
+29.0,2023-04-18,Hammer/Shooting Star,100.0,100.0,99.40872198394742
+30.0,2023-04-19,Hammer/Shooting Star,100.0,100.0,99.75557047245992
+31.0,2023-04-20,Hammer/Shooting Star,100.0,100.0,99.91666005238513
+32.0,2023-04-21,Hammer/Shooting Star,100.0,100.0,99.8818010459332
+33.0,2023-04-24,Hammer/Shooting Star,100.0,100.0,100.22843363424076
+34.0,2023-04-25,Hammer/Shooting Star,100.0,100.0,100.0022520557046
+35.0,2023-04-26,Hammer/Shooting Star,100.0,100.0,100.28507426564532
+36.0,2023-04-27,Hammer/Shooting Star,100.0,100.0,100.6180844434714
+37.0,2023-04-28,Hammer/Shooting Star,100.0,100.0,100.54873429004368
+38.0,2023-05-02,Hammer/Shooting Star,100.0,100.0,100.06206965042372
+39.0,2023-05-03,Hammer/Shooting Star,100.0,100.0331239165719,99.82830769910235
+40.0,2023-05-04,Hammer/Shooting Star,100.0,100.0,100.87163320612795
+41.0,2023-05-05,Hammer/Shooting Star,100.0,100.0,99.73864759097658
+42.0,2023-05-08,Hammer/Shooting Star,100.0,100.0,100.82309636546252
+43.0,2023-05-09,Hammer/Shooting Star,100.0,100.0,99.75359769223203
+44.0,2023-05-10,Hammer/Shooting Star,100.0,100.0,99.98634894286214
+45.0,2023-05-11,Hammer/Shooting Star,100.0,100.0,99.70966019893451
+46.0,2023-05-12,Hammer/Shooting Star,100.0,100.0,100.21041110883098
+47.0,2023-05-15,Hammer/Shooting Star,100.0,100.0,100.24701051839492
+48.0,2023-05-16,Hammer/Shooting Star,100.0,100.0,99.155832001888
+49.0,2023-05-17,Hammer/Shooting Star,100.0,100.0,99.43990448322307
+50.0,2023-05-18,Hammer/Shooting Star,100.0,100.0,99.16418318523584
+51.0,2023-05-19,Hammer/Shooting Star,100.0,100.0,100.10612471578646
+52.0,2023-05-22,Hammer/Shooting Star,100.0,100.0,100.56150452445182
+53.0,2023-05-23,Hammer/Shooting Star,100.0,100.0,99.84125601076082
+0.0,2023-03-01,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,100.56307279335948
+1.0,2023-03-02,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,99.40963751686137
+2.0,2023-03-03,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,100.80825155791132
+3.0,2023-03-06,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,100.22341186684652
+4.0,2023-03-08,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,100.48540254447164
+5.0,2023-03-09,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,98.93512566079885
+6.0,2023-03-10,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,99.85553606438964
+7.0,2023-03-13,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,98.63792123706368
+8.0,2023-03-14,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,99.46446937889522
+9.0,2023-03-15,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,98.87804409181862
+10.0,2023-03-16,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,100.0912051733928
+11.0,2023-03-17,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,100.06954265477624
+12.0,2023-03-20,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,99.62997902335556
+13.0,2023-03-21,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,100.27285409486296
+14.0,2023-03-22,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,99.79799097072032
+15.0,2023-03-23,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,99.83067600921775
+16.0,2023-03-24,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,99.15906349187756
+17.0,2023-03-27,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,99.8772395683072
+18.0,2023-03-28,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,99.56023309407428
+19.0,2023-03-29,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,100.81903482885971
+20.0,2023-03-31,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,100.85965712492774
+21.0,2023-04-03,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,99.83790405641513
+22.0,2023-04-05,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,100.79610613983228
+23.0,2023-04-06,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,100.38867675952515
+24.0,2023-04-10,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,99.87609796483108
+25.0,2023-04-11,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,100.09856084225748
+26.0,2023-04-12,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,100.3285556221864
+27.0,2023-04-13,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,100.11708681271163
+28.0,2023-04-17,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,99.11045177181884
+29.0,2023-04-18,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,99.40872198394742
+30.0,2023-04-19,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,99.75557047245992
+31.0,2023-04-20,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,99.91666005238513
+32.0,2023-04-21,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,99.8818010459332
+33.0,2023-04-24,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,100.22843363424076
+34.0,2023-04-25,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,100.0022520557046
+35.0,2023-04-26,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,100.28507426564532
+36.0,2023-04-27,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,100.6180844434714
+37.0,2023-04-28,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,100.54873429004368
+38.0,2023-05-02,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,100.06206965042372
+39.0,2023-05-03,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,99.82830769910235
+40.0,2023-05-04,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,100.87163320612795
+41.0,2023-05-05,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,99.73864759097658
+42.0,2023-05-08,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,100.82309636546252
+43.0,2023-05-09,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,99.75359769223203
+44.0,2023-05-10,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,99.98634894286214
+45.0,2023-05-11,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,99.70966019893451
+46.0,2023-05-12,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,100.21041110883098
+47.0,2023-05-15,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,100.24701051839492
+48.0,2023-05-16,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,99.155832001888
+49.0,2023-05-17,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,99.43990448322307
+50.0,2023-05-18,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,99.16418318523584
+51.0,2023-05-19,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,100.10612471578646
+52.0,2023-05-22,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,100.56150452445182
+53.0,2023-05-23,marubuzu+hammer/marubuzu+hangingMan,100.0,100.0,99.84125601076082
+0.0,2023-03-01,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,100.56307279335948
+1.0,2023-03-02,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,99.40963751686137
+2.0,2023-03-03,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,100.80825155791132
+3.0,2023-03-06,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,100.22341186684652
+4.0,2023-03-08,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,100.48540254447164
+5.0,2023-03-09,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,98.93512566079885
+6.0,2023-03-10,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,99.85553606438964
+7.0,2023-03-13,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,98.63792123706368
+8.0,2023-03-14,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,99.46446937889522
+9.0,2023-03-15,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,98.87804409181862
+10.0,2023-03-16,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,100.0912051733928
+11.0,2023-03-17,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,100.06954265477624
+12.0,2023-03-20,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,99.62997902335556
+13.0,2023-03-21,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,100.27285409486296
+14.0,2023-03-22,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,99.79799097072032
+15.0,2023-03-23,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,99.83067600921775
+16.0,2023-03-24,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,99.15906349187756
+17.0,2023-03-27,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,99.8772395683072
+18.0,2023-03-28,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,99.56023309407428
+19.0,2023-03-29,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,100.81903482885971
+20.0,2023-03-31,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,100.85965712492774
+21.0,2023-04-03,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,99.83790405641513
+22.0,2023-04-05,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,100.79610613983228
+23.0,2023-04-06,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,100.38867675952515
+24.0,2023-04-10,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,99.87609796483108
+25.0,2023-04-11,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,100.09856084225748
+26.0,2023-04-12,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,100.3285556221864
+27.0,2023-04-13,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,100.11708681271163
+28.0,2023-04-17,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,99.11045177181884
+29.0,2023-04-18,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,99.40872198394742
+30.0,2023-04-19,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,99.75557047245992
+31.0,2023-04-20,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,99.91666005238513
+32.0,2023-04-21,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,99.8818010459332
+33.0,2023-04-24,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,100.22843363424076
+34.0,2023-04-25,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,100.0022520557046
+35.0,2023-04-26,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,100.28507426564532
+36.0,2023-04-27,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,100.6180844434714
+37.0,2023-04-28,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,100.54873429004368
+38.0,2023-05-02,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,100.06206965042372
+39.0,2023-05-03,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,99.82830769910235
+40.0,2023-05-04,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,100.87163320612795
+41.0,2023-05-05,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,99.73864759097658
+42.0,2023-05-08,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,100.82309636546252
+43.0,2023-05-09,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,99.75359769223203
+44.0,2023-05-10,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,99.98634894286214
+45.0,2023-05-11,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,99.70966019893451
+46.0,2023-05-12,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,100.21041110883098
+47.0,2023-05-15,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,100.24701051839492
+48.0,2023-05-16,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,99.155832001888
+49.0,2023-05-17,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,99.43990448322307
+50.0,2023-05-18,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,99.16418318523584
+51.0,2023-05-19,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,100.10612471578646
+52.0,2023-05-22,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,100.56150452445182
+53.0,2023-05-23,marubuzu+3Whitesoilders/marubuzu+3BlackRows,100.0,100.0,99.84125601076082
+0.0,2023-03-01,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,100.56307279335948
+1.0,2023-03-02,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,99.40963751686137
+2.0,2023-03-03,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,100.80825155791132
+3.0,2023-03-06,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,100.22341186684652
+4.0,2023-03-08,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,100.48540254447164
+5.0,2023-03-09,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,98.93512566079885
+6.0,2023-03-10,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,99.85553606438964
+7.0,2023-03-13,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,98.63792123706368
+8.0,2023-03-14,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,99.46446937889522
+9.0,2023-03-15,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,98.87804409181862
+10.0,2023-03-16,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,100.0912051733928
+11.0,2023-03-17,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,100.06954265477624
+12.0,2023-03-20,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,99.62997902335556
+13.0,2023-03-21,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,100.27285409486296
+14.0,2023-03-22,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,99.79799097072032
+15.0,2023-03-23,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,99.83067600921775
+16.0,2023-03-24,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,99.15906349187756
+17.0,2023-03-27,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,99.8772395683072
+18.0,2023-03-28,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,99.56023309407428
+19.0,2023-03-29,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,100.81903482885971
+20.0,2023-03-31,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,100.85965712492774
+21.0,2023-04-03,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,99.83790405641513
+22.0,2023-04-05,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,100.79610613983228
+23.0,2023-04-06,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,100.38867675952515
+24.0,2023-04-10,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,99.87609796483108
+25.0,2023-04-11,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,100.09856084225748
+26.0,2023-04-12,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,100.3285556221864
+27.0,2023-04-13,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,100.11708681271163
+28.0,2023-04-17,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,99.11045177181884
+29.0,2023-04-18,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,99.40872198394742
+30.0,2023-04-19,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,99.75557047245992
+31.0,2023-04-20,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,99.91666005238513
+32.0,2023-04-21,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,99.8818010459332
+33.0,2023-04-24,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,100.22843363424076
+34.0,2023-04-25,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,100.0022520557046
+35.0,2023-04-26,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,100.28507426564532
+36.0,2023-04-27,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,100.6180844434714
+37.0,2023-04-28,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,100.54873429004368
+38.0,2023-05-02,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,100.06206965042372
+39.0,2023-05-03,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,99.82830769910235
+40.0,2023-05-04,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,100.87163320612795
+41.0,2023-05-05,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,99.73864759097658
+42.0,2023-05-08,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,100.82309636546252
+43.0,2023-05-09,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,99.75359769223203
+44.0,2023-05-10,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,99.98634894286214
+45.0,2023-05-11,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,99.70966019893451
+46.0,2023-05-12,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,100.21041110883098
+47.0,2023-05-15,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,100.24701051839492
+48.0,2023-05-16,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,99.155832001888
+49.0,2023-05-17,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,99.43990448322307
+50.0,2023-05-18,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,99.16418318523584
+51.0,2023-05-19,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,100.10612471578646
+52.0,2023-05-22,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,100.56150452445182
+53.0,2023-05-23,Engulfing+3WhiteSoilders/Engulfing+3BlackRows,100.0,100.0,99.84125601076082
+0.0,2023-03-01,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,100.56307279335948
+1.0,2023-03-02,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,99.40963751686137
+2.0,2023-03-03,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,100.80825155791132
+3.0,2023-03-06,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,100.22341186684652
+4.0,2023-03-08,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,100.48540254447164
+5.0,2023-03-09,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,98.93512566079885
+6.0,2023-03-10,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,99.85553606438964
+7.0,2023-03-13,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,98.63792123706368
+8.0,2023-03-14,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,99.46446937889522
+9.0,2023-03-15,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,98.87804409181862
+10.0,2023-03-16,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,100.0912051733928
+11.0,2023-03-17,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,100.06954265477624
+12.0,2023-03-20,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,99.62997902335556
+13.0,2023-03-21,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,100.27285409486296
+14.0,2023-03-22,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,99.79799097072032
+15.0,2023-03-23,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,99.83067600921775
+16.0,2023-03-24,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,99.15906349187756
+17.0,2023-03-27,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,99.8772395683072
+18.0,2023-03-28,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,99.56023309407428
+19.0,2023-03-29,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,100.81903482885971
+20.0,2023-03-31,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,100.85965712492774
+21.0,2023-04-03,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,99.83790405641513
+22.0,2023-04-05,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,100.79610613983228
+23.0,2023-04-06,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,100.38867675952515
+24.0,2023-04-10,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,99.87609796483108
+25.0,2023-04-11,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,100.09856084225748
+26.0,2023-04-12,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,100.3285556221864
+27.0,2023-04-13,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,100.11708681271163
+28.0,2023-04-17,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,99.11045177181884
+29.0,2023-04-18,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,99.40872198394742
+30.0,2023-04-19,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,99.75557047245992
+31.0,2023-04-20,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,99.91666005238513
+32.0,2023-04-21,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,99.8818010459332
+33.0,2023-04-24,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,100.22843363424076
+34.0,2023-04-25,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,100.0022520557046
+35.0,2023-04-26,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,100.28507426564532
+36.0,2023-04-27,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,100.6180844434714
+37.0,2023-04-28,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,100.54873429004368
+38.0,2023-05-02,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,100.06206965042372
+39.0,2023-05-03,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,99.82830769910235
+40.0,2023-05-04,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,100.87163320612795
+41.0,2023-05-05,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,99.73864759097658
+42.0,2023-05-08,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,100.82309636546252
+43.0,2023-05-09,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,99.75359769223203
+44.0,2023-05-10,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,99.98634894286214
+45.0,2023-05-11,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,99.70966019893451
+46.0,2023-05-12,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,100.21041110883098
+47.0,2023-05-15,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,100.24701051839492
+48.0,2023-05-16,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,99.155832001888
+49.0,2023-05-17,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,99.43990448322307
+50.0,2023-05-18,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,99.16418318523584
+51.0,2023-05-19,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,100.10612471578646
+52.0,2023-05-22,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,100.56150452445182
+53.0,2023-05-23,harami+3WhiteSoilders/harami+3BlackRows,100.0,100.0,99.84125601076082
+0.0,2023-03-01,harami+engulfing/harami+engulfing,100.0,100.0,100.56307279335948
+1.0,2023-03-02,harami+engulfing/harami+engulfing,100.0,100.0,99.40963751686137
+2.0,2023-03-03,harami+engulfing/harami+engulfing,100.0,100.0,100.80825155791132
+3.0,2023-03-06,harami+engulfing/harami+engulfing,100.0,100.0,100.22341186684652
+4.0,2023-03-08,harami+engulfing/harami+engulfing,100.0,100.0,100.48540254447164
+5.0,2023-03-09,harami+engulfing/harami+engulfing,100.0,100.0,98.93512566079885
+6.0,2023-03-10,harami+engulfing/harami+engulfing,100.0,100.0,99.85553606438964
+7.0,2023-03-13,harami+engulfing/harami+engulfing,100.0,100.0,98.63792123706368
+8.0,2023-03-14,harami+engulfing/harami+engulfing,100.0,100.0,99.46446937889522
+9.0,2023-03-15,harami+engulfing/harami+engulfing,100.0,100.0,98.87804409181862
+10.0,2023-03-16,harami+engulfing/harami+engulfing,100.0,100.0,100.0912051733928
+11.0,2023-03-17,harami+engulfing/harami+engulfing,100.0,100.0,100.06954265477624
+12.0,2023-03-20,harami+engulfing/harami+engulfing,100.0,100.0,99.62997902335556
+13.0,2023-03-21,harami+engulfing/harami+engulfing,100.0,100.0,100.27285409486296
+14.0,2023-03-22,harami+engulfing/harami+engulfing,100.0,100.0,99.79799097072032
+15.0,2023-03-23,harami+engulfing/harami+engulfing,100.0,100.0,99.83067600921775
+16.0,2023-03-24,harami+engulfing/harami+engulfing,100.0,100.0,99.15906349187756
+17.0,2023-03-27,harami+engulfing/harami+engulfing,100.0,100.0,99.8772395683072
+18.0,2023-03-28,harami+engulfing/harami+engulfing,100.0,100.0,99.56023309407428
+19.0,2023-03-29,harami+engulfing/harami+engulfing,100.0,100.0,100.81903482885971
+20.0,2023-03-31,harami+engulfing/harami+engulfing,100.0,100.0,100.85965712492774
+21.0,2023-04-03,harami+engulfing/harami+engulfing,100.0,100.0,99.83790405641513
+22.0,2023-04-05,harami+engulfing/harami+engulfing,100.0,100.0,100.79610613983228
+23.0,2023-04-06,harami+engulfing/harami+engulfing,100.0,100.0,100.38867675952515
+24.0,2023-04-10,harami+engulfing/harami+engulfing,100.0,100.0,99.87609796483108
+25.0,2023-04-11,harami+engulfing/harami+engulfing,100.0,100.0,100.09856084225748
+26.0,2023-04-12,harami+engulfing/harami+engulfing,100.0,100.0,100.3285556221864
+27.0,2023-04-13,harami+engulfing/harami+engulfing,100.0,100.0,100.11708681271163
+28.0,2023-04-17,harami+engulfing/harami+engulfing,100.0,100.0,99.11045177181884
+29.0,2023-04-18,harami+engulfing/harami+engulfing,100.0,100.0,99.40872198394742
+30.0,2023-04-19,harami+engulfing/harami+engulfing,100.0,100.0,99.75557047245992
+31.0,2023-04-20,harami+engulfing/harami+engulfing,100.0,100.0,99.91666005238513
+32.0,2023-04-21,harami+engulfing/harami+engulfing,100.0,100.0,99.8818010459332
+33.0,2023-04-24,harami+engulfing/harami+engulfing,100.0,100.0,100.22843363424076
+34.0,2023-04-25,harami+engulfing/harami+engulfing,100.0,100.0,100.0022520557046
+35.0,2023-04-26,harami+engulfing/harami+engulfing,100.0,100.0,100.28507426564532
+36.0,2023-04-27,harami+engulfing/harami+engulfing,100.0,100.0,100.6180844434714
+37.0,2023-04-28,harami+engulfing/harami+engulfing,100.0,100.0,100.54873429004368
+38.0,2023-05-02,harami+engulfing/harami+engulfing,100.0,100.0,100.06206965042372
+39.0,2023-05-03,harami+engulfing/harami+engulfing,100.0,100.0,99.82830769910235
+40.0,2023-05-04,harami+engulfing/harami+engulfing,100.0,100.0,100.87163320612795
+41.0,2023-05-05,harami+engulfing/harami+engulfing,100.0,100.0,99.73864759097658
+42.0,2023-05-08,harami+engulfing/harami+engulfing,100.0,100.0,100.82309636546252
+43.0,2023-05-09,harami+engulfing/harami+engulfing,100.0,100.0,99.75359769223203
+44.0,2023-05-10,harami+engulfing/harami+engulfing,100.0,100.0,99.98634894286214
+45.0,2023-05-11,harami+engulfing/harami+engulfing,100.0,100.0,99.70966019893451
+46.0,2023-05-12,harami+engulfing/harami+engulfing,100.0,100.0,100.21041110883098
+47.0,2023-05-15,harami+engulfing/harami+engulfing,100.0,100.0,100.24701051839492
+48.0,2023-05-16,harami+engulfing/harami+engulfing,100.0,100.0,99.155832001888
+49.0,2023-05-17,harami+engulfing/harami+engulfing,100.0,100.0,99.43990448322307
+50.0,2023-05-18,harami+engulfing/harami+engulfing,100.0,100.0,99.16418318523584
+51.0,2023-05-19,harami+engulfing/harami+engulfing,100.0,100.0,100.10612471578646
+52.0,2023-05-22,harami+engulfing/harami+engulfing,100.0,100.0,100.56150452445182
+53.0,2023-05-23,harami+engulfing/harami+engulfing,100.0,100.0,99.84125601076082
+0.0,2023-03-01,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,100.56307279335948
+1.0,2023-03-02,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,99.40963751686137
+2.0,2023-03-03,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,100.80825155791132
+3.0,2023-03-06,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,100.22341186684652
+4.0,2023-03-08,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,100.48540254447164
+5.0,2023-03-09,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,98.93512566079885
+6.0,2023-03-10,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,99.85553606438964
+7.0,2023-03-13,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,98.63792123706368
+8.0,2023-03-14,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,99.46446937889522
+9.0,2023-03-15,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,98.87804409181862
+10.0,2023-03-16,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,100.0912051733928
+11.0,2023-03-17,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,100.06954265477624
+12.0,2023-03-20,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,99.62997902335556
+13.0,2023-03-21,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,100.27285409486296
+14.0,2023-03-22,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,99.79799097072032
+15.0,2023-03-23,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,99.83067600921775
+16.0,2023-03-24,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,99.15906349187756
+17.0,2023-03-27,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,99.8772395683072
+18.0,2023-03-28,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,99.56023309407428
+19.0,2023-03-29,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,100.81903482885971
+20.0,2023-03-31,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,100.85965712492774
+21.0,2023-04-03,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,99.83790405641513
+22.0,2023-04-05,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,100.79610613983228
+23.0,2023-04-06,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,100.38867675952515
+24.0,2023-04-10,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,99.87609796483108
+25.0,2023-04-11,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,100.09856084225748
+26.0,2023-04-12,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,100.3285556221864
+27.0,2023-04-13,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,100.11708681271163
+28.0,2023-04-17,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,99.11045177181884
+29.0,2023-04-18,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,99.40872198394742
+30.0,2023-04-19,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,99.75557047245992
+31.0,2023-04-20,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,99.91666005238513
+32.0,2023-04-21,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,99.8818010459332
+33.0,2023-04-24,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,100.22843363424076
+34.0,2023-04-25,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,100.0022520557046
+35.0,2023-04-26,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,100.28507426564532
+36.0,2023-04-27,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,100.6180844434714
+37.0,2023-04-28,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,100.54873429004368
+38.0,2023-05-02,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,100.06206965042372
+39.0,2023-05-03,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,99.82830769910235
+40.0,2023-05-04,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,100.87163320612795
+41.0,2023-05-05,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,99.73864759097658
+42.0,2023-05-08,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,100.82309636546252
+43.0,2023-05-09,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,99.75359769223203
+44.0,2023-05-10,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,99.98634894286214
+45.0,2023-05-11,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,99.70966019893451
+46.0,2023-05-12,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,100.21041110883098
+47.0,2023-05-15,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,100.24701051839492
+48.0,2023-05-16,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,99.155832001888
+49.0,2023-05-17,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,99.43990448322307
+50.0,2023-05-18,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,99.16418318523584
+51.0,2023-05-19,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,100.10612471578646
+52.0,2023-05-22,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,100.56150452445182
+53.0,2023-05-23,morning star+3WhiteSoilders/harami+3BlackRows,100.0,100.0,99.84125601076082
+0.0,2023-03-01,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,100.56307279335948
+1.0,2023-03-02,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,99.40963751686137
+2.0,2023-03-03,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,100.80825155791132
+3.0,2023-03-06,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,100.22341186684652
+4.0,2023-03-08,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,100.48540254447164
+5.0,2023-03-09,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,98.93512566079885
+6.0,2023-03-10,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,99.85553606438964
+7.0,2023-03-13,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,98.63792123706368
+8.0,2023-03-14,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,99.46446937889522
+9.0,2023-03-15,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,98.87804409181862
+10.0,2023-03-16,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,100.0912051733928
+11.0,2023-03-17,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,100.06954265477624
+12.0,2023-03-20,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,99.62997902335556
+13.0,2023-03-21,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,100.27285409486296
+14.0,2023-03-22,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,99.79799097072032
+15.0,2023-03-23,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,99.83067600921775
+16.0,2023-03-24,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,99.15906349187756
+17.0,2023-03-27,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,99.8772395683072
+18.0,2023-03-28,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,99.56023309407428
+19.0,2023-03-29,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,100.81903482885971
+20.0,2023-03-31,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,100.85965712492774
+21.0,2023-04-03,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,99.83790405641513
+22.0,2023-04-05,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,100.79610613983228
+23.0,2023-04-06,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,100.38867675952515
+24.0,2023-04-10,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,99.87609796483108
+25.0,2023-04-11,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,100.09856084225748
+26.0,2023-04-12,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,100.3285556221864
+27.0,2023-04-13,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,100.11708681271163
+28.0,2023-04-17,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,99.11045177181884
+29.0,2023-04-18,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,99.40872198394742
+30.0,2023-04-19,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,99.75557047245992
+31.0,2023-04-20,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,99.91666005238513
+32.0,2023-04-21,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,99.8818010459332
+33.0,2023-04-24,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,100.22843363424076
+34.0,2023-04-25,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,100.0022520557046
+35.0,2023-04-26,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,100.28507426564532
+36.0,2023-04-27,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,100.6180844434714
+37.0,2023-04-28,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,100.54873429004368
+38.0,2023-05-02,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,100.06206965042372
+39.0,2023-05-03,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,99.82830769910235
+40.0,2023-05-04,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,100.87163320612795
+41.0,2023-05-05,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,99.73864759097658
+42.0,2023-05-08,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,100.82309636546252
+43.0,2023-05-09,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,99.75359769223203
+44.0,2023-05-10,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,99.98634894286214
+45.0,2023-05-11,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,99.70966019893451
+46.0,2023-05-12,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,100.21041110883098
+47.0,2023-05-15,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,100.24701051839492
+48.0,2023-05-16,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,99.155832001888
+49.0,2023-05-17,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,99.43990448322307
+50.0,2023-05-18,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,99.16418318523584
+51.0,2023-05-19,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,100.10612471578646
+52.0,2023-05-22,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,100.56150452445182
+53.0,2023-05-23,piercing+Hammer/Engulfing+Hanging man,100.0,100.0,99.84125601076082
+0.0,2023-03-01,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,100.56307279335948
+1.0,2023-03-02,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,99.40963751686137
+2.0,2023-03-03,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,100.80825155791132
+3.0,2023-03-06,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,100.22341186684652
+4.0,2023-03-08,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,100.48540254447164
+5.0,2023-03-09,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,98.93512566079885
+6.0,2023-03-10,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,99.85553606438964
+7.0,2023-03-13,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,98.63792123706368
+8.0,2023-03-14,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,99.46446937889522
+9.0,2023-03-15,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,98.87804409181862
+10.0,2023-03-16,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,100.0912051733928
+11.0,2023-03-17,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,100.06954265477624
+12.0,2023-03-20,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,99.62997902335556
+13.0,2023-03-21,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,100.27285409486296
+14.0,2023-03-22,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,99.79799097072032
+15.0,2023-03-23,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,99.83067600921775
+16.0,2023-03-24,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,99.15906349187756
+17.0,2023-03-27,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,99.8772395683072
+18.0,2023-03-28,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,99.56023309407428
+19.0,2023-03-29,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,100.81903482885971
+20.0,2023-03-31,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,100.85965712492774
+21.0,2023-04-03,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,99.83790405641513
+22.0,2023-04-05,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,100.79610613983228
+23.0,2023-04-06,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,100.38867675952515
+24.0,2023-04-10,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,99.87609796483108
+25.0,2023-04-11,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,100.09856084225748
+26.0,2023-04-12,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,100.3285556221864
+27.0,2023-04-13,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,100.11708681271163
+28.0,2023-04-17,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,99.11045177181884
+29.0,2023-04-18,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,99.40872198394742
+30.0,2023-04-19,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,99.75557047245992
+31.0,2023-04-20,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,99.91666005238513
+32.0,2023-04-21,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,99.8818010459332
+33.0,2023-04-24,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,100.22843363424076
+34.0,2023-04-25,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,100.0022520557046
+35.0,2023-04-26,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,100.28507426564532
+36.0,2023-04-27,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,100.6180844434714
+37.0,2023-04-28,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,100.54873429004368
+38.0,2023-05-02,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,100.06206965042372
+39.0,2023-05-03,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,99.82830769910235
+40.0,2023-05-04,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,100.87163320612795
+41.0,2023-05-05,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,99.73864759097658
+42.0,2023-05-08,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,100.82309636546252
+43.0,2023-05-09,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,99.75359769223203
+44.0,2023-05-10,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,99.98634894286214
+45.0,2023-05-11,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,99.70966019893451
+46.0,2023-05-12,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,100.21041110883098
+47.0,2023-05-15,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,100.24701051839492
+48.0,2023-05-16,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,99.155832001888
+49.0,2023-05-17,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,99.43990448322307
+50.0,2023-05-18,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,99.16418318523584
+51.0,2023-05-19,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,100.10612471578646
+52.0,2023-05-22,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,100.56150452445182
+53.0,2023-05-23,Engulfing+Hammer/Engulfing+shooting star,100.0,100.0,99.84125601076082
+0.0,2023-03-01,Hammer/Engulfing+shooting star,100.0,100.0,100.56307279335948
+1.0,2023-03-02,Hammer/Engulfing+shooting star,100.0,100.0,99.40963751686137
+2.0,2023-03-03,Hammer/Engulfing+shooting star,100.0,100.0,100.80825155791132
+3.0,2023-03-06,Hammer/Engulfing+shooting star,100.0,100.0,100.22341186684652
+4.0,2023-03-08,Hammer/Engulfing+shooting star,100.0,100.0,100.48540254447164
+5.0,2023-03-09,Hammer/Engulfing+shooting star,100.0,100.0,98.93512566079885
+6.0,2023-03-10,Hammer/Engulfing+shooting star,100.0,100.0,99.85553606438964
+7.0,2023-03-13,Hammer/Engulfing+shooting star,100.0,100.0,98.63792123706368
+8.0,2023-03-14,Hammer/Engulfing+shooting star,100.0,100.0,99.46446937889522
+9.0,2023-03-15,Hammer/Engulfing+shooting star,100.0,100.0,98.87804409181862
+10.0,2023-03-16,Hammer/Engulfing+shooting star,100.0,100.0,100.0912051733928
+11.0,2023-03-17,Hammer/Engulfing+shooting star,100.0,100.0,100.06954265477624
+12.0,2023-03-20,Hammer/Engulfing+shooting star,100.0,100.0,99.62997902335556
+13.0,2023-03-21,Hammer/Engulfing+shooting star,100.0,100.0,100.27285409486296
+14.0,2023-03-22,Hammer/Engulfing+shooting star,100.0,100.0,99.79799097072032
+15.0,2023-03-23,Hammer/Engulfing+shooting star,100.0,100.0,99.83067600921775
+16.0,2023-03-24,Hammer/Engulfing+shooting star,100.0,100.0,99.15906349187756
+17.0,2023-03-27,Hammer/Engulfing+shooting star,100.0,100.0,99.8772395683072
+18.0,2023-03-28,Hammer/Engulfing+shooting star,100.0,100.0,99.56023309407428
+19.0,2023-03-29,Hammer/Engulfing+shooting star,100.0,100.0,100.81903482885971
+20.0,2023-03-31,Hammer/Engulfing+shooting star,100.0,100.0,100.85965712492774
+21.0,2023-04-03,Hammer/Engulfing+shooting star,100.0,100.0,99.83790405641513
+22.0,2023-04-05,Hammer/Engulfing+shooting star,100.0,100.0,100.79610613983228
+23.0,2023-04-06,Hammer/Engulfing+shooting star,100.0,100.0,100.38867675952515
+24.0,2023-04-10,Hammer/Engulfing+shooting star,100.0,100.0,99.87609796483108
+25.0,2023-04-11,Hammer/Engulfing+shooting star,100.0,100.0,100.09856084225748
+26.0,2023-04-12,Hammer/Engulfing+shooting star,100.0,100.0,100.3285556221864
+27.0,2023-04-13,Hammer/Engulfing+shooting star,100.0,100.0,100.11708681271163
+28.0,2023-04-17,Hammer/Engulfing+shooting star,100.0,100.0,99.11045177181884
+29.0,2023-04-18,Hammer/Engulfing+shooting star,100.0,100.0,99.40872198394742
+30.0,2023-04-19,Hammer/Engulfing+shooting star,100.0,100.0,99.75557047245992
+31.0,2023-04-20,Hammer/Engulfing+shooting star,100.0,100.0,99.91666005238513
+32.0,2023-04-21,Hammer/Engulfing+shooting star,100.0,100.0,99.8818010459332
+33.0,2023-04-24,Hammer/Engulfing+shooting star,100.0,100.0,100.22843363424076
+34.0,2023-04-25,Hammer/Engulfing+shooting star,100.0,100.0,100.0022520557046
+35.0,2023-04-26,Hammer/Engulfing+shooting star,100.0,100.0,100.28507426564532
+36.0,2023-04-27,Hammer/Engulfing+shooting star,100.0,100.0,100.6180844434714
+37.0,2023-04-28,Hammer/Engulfing+shooting star,100.0,100.0,100.54873429004368
+38.0,2023-05-02,Hammer/Engulfing+shooting star,100.0,100.0,100.06206965042372
+39.0,2023-05-03,Hammer/Engulfing+shooting star,100.0,100.0,99.82830769910235
+40.0,2023-05-04,Hammer/Engulfing+shooting star,100.0,100.0,100.87163320612795
+41.0,2023-05-05,Hammer/Engulfing+shooting star,100.0,100.0,99.73864759097658
+42.0,2023-05-08,Hammer/Engulfing+shooting star,100.0,100.0,100.82309636546252
+43.0,2023-05-09,Hammer/Engulfing+shooting star,100.0,100.0,99.75359769223203
+44.0,2023-05-10,Hammer/Engulfing+shooting star,100.0,100.0,99.98634894286214
+45.0,2023-05-11,Hammer/Engulfing+shooting star,100.0,100.0,99.70966019893451
+46.0,2023-05-12,Hammer/Engulfing+shooting star,100.0,100.0,100.21041110883098
+47.0,2023-05-15,Hammer/Engulfing+shooting star,100.0,100.0,100.24701051839492
+48.0,2023-05-16,Hammer/Engulfing+shooting star,100.0,100.0,99.155832001888
+49.0,2023-05-17,Hammer/Engulfing+shooting star,100.0,100.0,99.43990448322307
+50.0,2023-05-18,Hammer/Engulfing+shooting star,100.0,100.0,99.16418318523584
+51.0,2023-05-19,Hammer/Engulfing+shooting star,100.0,100.0,100.10612471578646
+52.0,2023-05-22,Hammer/Engulfing+shooting star,100.0,100.0,100.56150452445182
+53.0,2023-05-23,Hammer/Engulfing+shooting star,100.0,100.0,99.84125601076082
+0.0,2023-03-01,Hammer/Engulfing+Hanging man,100.0,100.0,100.56307279335948
+1.0,2023-03-02,Hammer/Engulfing+Hanging man,100.0,100.0,99.40963751686137
+2.0,2023-03-03,Hammer/Engulfing+Hanging man,100.0,100.0,100.80825155791132
+3.0,2023-03-06,Hammer/Engulfing+Hanging man,100.0,100.0,100.22341186684652
+4.0,2023-03-08,Hammer/Engulfing+Hanging man,100.0,100.0,100.48540254447164
+5.0,2023-03-09,Hammer/Engulfing+Hanging man,100.0,100.0,98.93512566079885
+6.0,2023-03-10,Hammer/Engulfing+Hanging man,100.0,100.0,99.85553606438964
+7.0,2023-03-13,Hammer/Engulfing+Hanging man,100.0,100.0,98.63792123706368
+8.0,2023-03-14,Hammer/Engulfing+Hanging man,100.0,100.0,99.46446937889522
+9.0,2023-03-15,Hammer/Engulfing+Hanging man,100.0,100.0,98.87804409181862
+10.0,2023-03-16,Hammer/Engulfing+Hanging man,100.0,100.0,100.0912051733928
+11.0,2023-03-17,Hammer/Engulfing+Hanging man,100.0,100.0,100.06954265477624
+12.0,2023-03-20,Hammer/Engulfing+Hanging man,100.0,100.0,99.62997902335556
+13.0,2023-03-21,Hammer/Engulfing+Hanging man,100.0,100.0,100.27285409486296
+14.0,2023-03-22,Hammer/Engulfing+Hanging man,100.0,100.0,99.79799097072032
+15.0,2023-03-23,Hammer/Engulfing+Hanging man,100.0,100.0,99.83067600921775
+16.0,2023-03-24,Hammer/Engulfing+Hanging man,100.0,100.0,99.15906349187756
+17.0,2023-03-27,Hammer/Engulfing+Hanging man,100.0,100.0,99.8772395683072
+18.0,2023-03-28,Hammer/Engulfing+Hanging man,100.0,100.0,99.56023309407428
+19.0,2023-03-29,Hammer/Engulfing+Hanging man,100.0,100.0,100.81903482885971
+20.0,2023-03-31,Hammer/Engulfing+Hanging man,100.0,100.0,100.85965712492774
+21.0,2023-04-03,Hammer/Engulfing+Hanging man,100.0,100.0,99.83790405641513
+22.0,2023-04-05,Hammer/Engulfing+Hanging man,100.0,100.0,100.79610613983228
+23.0,2023-04-06,Hammer/Engulfing+Hanging man,100.0,100.0,100.38867675952515
+24.0,2023-04-10,Hammer/Engulfing+Hanging man,100.0,100.0,99.87609796483108
+25.0,2023-04-11,Hammer/Engulfing+Hanging man,100.0,100.0,100.09856084225748
+26.0,2023-04-12,Hammer/Engulfing+Hanging man,100.0,100.0,100.3285556221864
+27.0,2023-04-13,Hammer/Engulfing+Hanging man,100.0,100.0,100.11708681271163
+28.0,2023-04-17,Hammer/Engulfing+Hanging man,100.0,100.0,99.11045177181884
+29.0,2023-04-18,Hammer/Engulfing+Hanging man,100.0,100.0,99.40872198394742
+30.0,2023-04-19,Hammer/Engulfing+Hanging man,100.0,100.0,99.75557047245992
+31.0,2023-04-20,Hammer/Engulfing+Hanging man,100.0,100.0,99.91666005238513
+32.0,2023-04-21,Hammer/Engulfing+Hanging man,100.0,100.0,99.8818010459332
+33.0,2023-04-24,Hammer/Engulfing+Hanging man,100.0,100.0,100.22843363424076
+34.0,2023-04-25,Hammer/Engulfing+Hanging man,100.0,100.0,100.0022520557046
+35.0,2023-04-26,Hammer/Engulfing+Hanging man,100.0,100.0,100.28507426564532
+36.0,2023-04-27,Hammer/Engulfing+Hanging man,100.0,100.0,100.6180844434714
+37.0,2023-04-28,Hammer/Engulfing+Hanging man,100.0,100.0,100.54873429004368
+38.0,2023-05-02,Hammer/Engulfing+Hanging man,100.0,100.0,100.06206965042372
+39.0,2023-05-03,Hammer/Engulfing+Hanging man,100.0,100.0,99.82830769910235
+40.0,2023-05-04,Hammer/Engulfing+Hanging man,100.0,100.0,100.87163320612795
+41.0,2023-05-05,Hammer/Engulfing+Hanging man,100.0,100.0,99.73864759097658
+42.0,2023-05-08,Hammer/Engulfing+Hanging man,100.0,100.0,100.82309636546252
+43.0,2023-05-09,Hammer/Engulfing+Hanging man,100.0,100.0,99.75359769223203
+44.0,2023-05-10,Hammer/Engulfing+Hanging man,100.0,100.0,99.98634894286214
+45.0,2023-05-11,Hammer/Engulfing+Hanging man,100.0,100.0,99.70966019893451
+46.0,2023-05-12,Hammer/Engulfing+Hanging man,100.0,100.0,100.21041110883098
+47.0,2023-05-15,Hammer/Engulfing+Hanging man,100.0,100.0,100.24701051839492
+48.0,2023-05-16,Hammer/Engulfing+Hanging man,100.0,100.0,99.155832001888
+49.0,2023-05-17,Hammer/Engulfing+Hanging man,100.0,100.0,99.43990448322307
+50.0,2023-05-18,Hammer/Engulfing+Hanging man,100.0,100.0,99.16418318523584
+51.0,2023-05-19,Hammer/Engulfing+Hanging man,100.0,100.0,100.10612471578646
+52.0,2023-05-22,Hammer/Engulfing+Hanging man,100.0,100.0,100.56150452445182
+53.0,2023-05-23,Hammer/Engulfing+Hanging man,100.0,100.0,99.84125601076082
+0.0,2023-03-01,marubuzu/marubuzu,100.0,100.24567830830466,100.56307279335948
+1.0,2023-03-02,marubuzu/marubuzu,100.0,100.0,99.40963751686137
+2.0,2023-03-03,marubuzu/marubuzu,100.0,100.0,100.80825155791132
+3.0,2023-03-06,marubuzu/marubuzu,100.0,100.0,100.22341186684652
+4.0,2023-03-08,marubuzu/marubuzu,100.0,100.0,100.48540254447164
+5.0,2023-03-09,marubuzu/marubuzu,100.0,100.0,98.93512566079885
+6.0,2023-03-10,marubuzu/marubuzu,100.0,100.0,99.85553606438964
+7.0,2023-03-13,marubuzu/marubuzu,100.0,100.0,98.63792123706368
+8.0,2023-03-14,marubuzu/marubuzu,100.0,100.0,99.46446937889522
+9.0,2023-03-15,marubuzu/marubuzu,100.0,100.0,98.87804409181862
+10.0,2023-03-16,marubuzu/marubuzu,100.0,100.0,100.0912051733928
+11.0,2023-03-17,marubuzu/marubuzu,100.0,100.0,100.06954265477624
+12.0,2023-03-20,marubuzu/marubuzu,100.0,100.0,99.62997902335556
+13.0,2023-03-21,marubuzu/marubuzu,100.0,100.0,100.27285409486296
+14.0,2023-03-22,marubuzu/marubuzu,100.0,100.0,99.79799097072032
+15.0,2023-03-23,marubuzu/marubuzu,100.0,100.0,99.83067600921775
+16.0,2023-03-24,marubuzu/marubuzu,100.0,99.87467937831602,99.15906349187756
+17.0,2023-03-27,marubuzu/marubuzu,100.0,100.0,99.8772395683072
+18.0,2023-03-28,marubuzu/marubuzu,100.0,100.0,99.56023309407428
+19.0,2023-03-29,marubuzu/marubuzu,100.0,100.0,100.81903482885971
+20.0,2023-03-31,marubuzu/marubuzu,100.0,100.0,100.85965712492774
+21.0,2023-04-03,marubuzu/marubuzu,100.0,100.0,99.83790405641513
+22.0,2023-04-05,marubuzu/marubuzu,100.0,100.0,100.79610613983228
+23.0,2023-04-06,marubuzu/marubuzu,100.0,100.0,100.38867675952515
+24.0,2023-04-10,marubuzu/marubuzu,100.0,100.0,99.87609796483108
+25.0,2023-04-11,marubuzu/marubuzu,100.0,100.0,100.09856084225748
+26.0,2023-04-12,marubuzu/marubuzu,100.0,100.0,100.3285556221864
+27.0,2023-04-13,marubuzu/marubuzu,100.0,100.0,100.11708681271163
+28.0,2023-04-17,marubuzu/marubuzu,100.0,100.0,99.11045177181884
+29.0,2023-04-18,marubuzu/marubuzu,100.0,100.0,99.40872198394742
+30.0,2023-04-19,marubuzu/marubuzu,100.0,100.0,99.75557047245992
+31.0,2023-04-20,marubuzu/marubuzu,100.0,100.0,99.91666005238513
+32.0,2023-04-21,marubuzu/marubuzu,100.0,100.0,99.8818010459332
+33.0,2023-04-24,marubuzu/marubuzu,100.0,100.0,100.22843363424076
+34.0,2023-04-25,marubuzu/marubuzu,100.0,100.0,100.0022520557046
+35.0,2023-04-26,marubuzu/marubuzu,100.0,100.0,100.28507426564532
+36.0,2023-04-27,marubuzu/marubuzu,100.0,100.0,100.6180844434714
+37.0,2023-04-28,marubuzu/marubuzu,100.0,100.0,100.54873429004368
+38.0,2023-05-02,marubuzu/marubuzu,100.0,100.0,100.06206965042372
+39.0,2023-05-03,marubuzu/marubuzu,100.0,100.0,99.82830769910235
+40.0,2023-05-04,marubuzu/marubuzu,100.0,100.0,100.87163320612795
+41.0,2023-05-05,marubuzu/marubuzu,100.0,100.0,99.73864759097658
+42.0,2023-05-08,marubuzu/marubuzu,100.0,100.0,100.82309636546252
+43.0,2023-05-09,marubuzu/marubuzu,100.0,100.0,99.75359769223203
+44.0,2023-05-10,marubuzu/marubuzu,100.0,100.0,99.98634894286214
+45.0,2023-05-11,marubuzu/marubuzu,100.0,100.0,99.70966019893451
+46.0,2023-05-12,marubuzu/marubuzu,100.0,100.0,100.21041110883098
+47.0,2023-05-15,marubuzu/marubuzu,100.0,100.0,100.24701051839492
+48.0,2023-05-16,marubuzu/marubuzu,100.0,100.0,99.155832001888
+49.0,2023-05-17,marubuzu/marubuzu,100.0,100.0,99.43990448322307
+50.0,2023-05-18,marubuzu/marubuzu,100.0,100.0,99.16418318523584
+51.0,2023-05-19,marubuzu/marubuzu,100.0,100.0,100.10612471578646
+52.0,2023-05-22,marubuzu/marubuzu,100.0,100.0,100.56150452445182
+53.0,2023-05-23,marubuzu/marubuzu,100.0,100.0,99.84125601076082
+0.0,2023-03-01,3WhiteSoilders/3blackRows,100.0,100.0,100.56307279335948
+1.0,2023-03-02,3WhiteSoilders/3blackRows,100.0,100.0,99.40963751686137
+2.0,2023-03-03,3WhiteSoilders/3blackRows,100.0,100.0,100.80825155791132
+3.0,2023-03-06,3WhiteSoilders/3blackRows,100.0,100.0,100.22341186684652
+4.0,2023-03-08,3WhiteSoilders/3blackRows,100.0,100.0,100.48540254447164
+5.0,2023-03-09,3WhiteSoilders/3blackRows,100.0,100.0,98.93512566079885
+6.0,2023-03-10,3WhiteSoilders/3blackRows,100.0,100.0,99.85553606438964
+7.0,2023-03-13,3WhiteSoilders/3blackRows,100.0,100.0,98.63792123706368
+8.0,2023-03-14,3WhiteSoilders/3blackRows,100.0,100.0,99.46446937889522
+9.0,2023-03-15,3WhiteSoilders/3blackRows,100.0,100.0,98.87804409181862
+10.0,2023-03-16,3WhiteSoilders/3blackRows,100.0,100.0,100.0912051733928
+11.0,2023-03-17,3WhiteSoilders/3blackRows,100.0,100.0,100.06954265477624
+12.0,2023-03-20,3WhiteSoilders/3blackRows,100.0,100.0,99.62997902335556
+13.0,2023-03-21,3WhiteSoilders/3blackRows,100.0,100.0,100.27285409486296
+14.0,2023-03-22,3WhiteSoilders/3blackRows,100.0,100.0,99.79799097072032
+15.0,2023-03-23,3WhiteSoilders/3blackRows,100.0,100.0,99.83067600921775
+16.0,2023-03-24,3WhiteSoilders/3blackRows,100.0,100.0,99.15906349187756
+17.0,2023-03-27,3WhiteSoilders/3blackRows,100.0,100.0,99.8772395683072
+18.0,2023-03-28,3WhiteSoilders/3blackRows,100.0,100.0,99.56023309407428
+19.0,2023-03-29,3WhiteSoilders/3blackRows,100.0,100.0,100.81903482885971
+20.0,2023-03-31,3WhiteSoilders/3blackRows,100.0,100.0,100.85965712492774
+21.0,2023-04-03,3WhiteSoilders/3blackRows,100.0,100.0,99.83790405641513
+22.0,2023-04-05,3WhiteSoilders/3blackRows,100.0,100.0,100.79610613983228
+23.0,2023-04-06,3WhiteSoilders/3blackRows,100.0,100.0,100.38867675952515
+24.0,2023-04-10,3WhiteSoilders/3blackRows,100.0,100.0,99.87609796483108
+25.0,2023-04-11,3WhiteSoilders/3blackRows,100.0,100.0,100.09856084225748
+26.0,2023-04-12,3WhiteSoilders/3blackRows,100.0,100.0,100.3285556221864
+27.0,2023-04-13,3WhiteSoilders/3blackRows,100.0,100.0,100.11708681271163
+28.0,2023-04-17,3WhiteSoilders/3blackRows,100.0,100.0,99.11045177181884
+29.0,2023-04-18,3WhiteSoilders/3blackRows,100.0,100.0,99.40872198394742
+30.0,2023-04-19,3WhiteSoilders/3blackRows,100.0,100.0,99.75557047245992
+31.0,2023-04-20,3WhiteSoilders/3blackRows,100.0,100.0,99.91666005238513
+32.0,2023-04-21,3WhiteSoilders/3blackRows,100.0,100.0,99.8818010459332
+33.0,2023-04-24,3WhiteSoilders/3blackRows,100.0,100.0,100.22843363424076
+34.0,2023-04-25,3WhiteSoilders/3blackRows,100.0,100.0,100.0022520557046
+35.0,2023-04-26,3WhiteSoilders/3blackRows,100.0,100.0,100.28507426564532
+36.0,2023-04-27,3WhiteSoilders/3blackRows,100.0,100.0,100.6180844434714
+37.0,2023-04-28,3WhiteSoilders/3blackRows,100.0,100.0,100.54873429004368
+38.0,2023-05-02,3WhiteSoilders/3blackRows,100.0,100.0,100.06206965042372
+39.0,2023-05-03,3WhiteSoilders/3blackRows,100.0,100.0,99.82830769910235
+40.0,2023-05-04,3WhiteSoilders/3blackRows,100.0,100.0,100.87163320612795
+41.0,2023-05-05,3WhiteSoilders/3blackRows,100.0,100.0,99.73864759097658
+42.0,2023-05-08,3WhiteSoilders/3blackRows,100.0,100.0,100.82309636546252
+43.0,2023-05-09,3WhiteSoilders/3blackRows,100.0,100.0,99.75359769223203
+44.0,2023-05-10,3WhiteSoilders/3blackRows,100.0,100.0,99.98634894286214
+45.0,2023-05-11,3WhiteSoilders/3blackRows,100.0,100.0,99.70966019893451
+46.0,2023-05-12,3WhiteSoilders/3blackRows,100.0,100.0,100.21041110883098
+47.0,2023-05-15,3WhiteSoilders/3blackRows,100.0,100.0,100.24701051839492
+48.0,2023-05-16,3WhiteSoilders/3blackRows,100.0,100.0,99.155832001888
+49.0,2023-05-17,3WhiteSoilders/3blackRows,100.0,100.0,99.43990448322307
+50.0,2023-05-18,3WhiteSoilders/3blackRows,100.0,100.0,99.16418318523584
+51.0,2023-05-19,3WhiteSoilders/3blackRows,100.0,100.0,100.10612471578646
+52.0,2023-05-22,3WhiteSoilders/3blackRows,100.0,100.0,100.56150452445182
+53.0,2023-05-23,3WhiteSoilders/3blackRows,100.0,100.0,99.84125601076082
+0.0,2023-03-01,harami/harami,100.0,100.0,100.56307279335948
+1.0,2023-03-02,harami/harami,100.0,100.0,99.40963751686137
+2.0,2023-03-03,harami/harami,100.0,100.0,100.80825155791132
+3.0,2023-03-06,harami/harami,100.0,100.0,100.22341186684652
+4.0,2023-03-08,harami/harami,100.0,100.0,100.48540254447164
+5.0,2023-03-09,harami/harami,100.0,100.0,98.93512566079885
+6.0,2023-03-10,harami/harami,100.0,100.0,99.85553606438964
+7.0,2023-03-13,harami/harami,100.0,100.0,98.63792123706368
+8.0,2023-03-14,harami/harami,100.0,100.0,99.46446937889522
+9.0,2023-03-15,harami/harami,100.0,100.0,98.87804409181862
+10.0,2023-03-16,harami/harami,100.0,100.0,100.0912051733928
+11.0,2023-03-17,harami/harami,100.0,100.0,100.06954265477624
+12.0,2023-03-20,harami/harami,100.0,100.0,99.62997902335556
+13.0,2023-03-21,harami/harami,100.0,100.0,100.27285409486296
+14.0,2023-03-22,harami/harami,100.0,100.0,99.79799097072032
+15.0,2023-03-23,harami/harami,100.0,100.0,99.83067600921775
+16.0,2023-03-24,harami/harami,100.0,100.0,99.15906349187756
+17.0,2023-03-27,harami/harami,100.0,100.0,99.8772395683072
+18.0,2023-03-28,harami/harami,100.0,100.0,99.56023309407428
+19.0,2023-03-29,harami/harami,100.0,100.0,100.81903482885971
+20.0,2023-03-31,harami/harami,100.0,100.0,100.85965712492774
+21.0,2023-04-03,harami/harami,100.0,100.0,99.83790405641513
+22.0,2023-04-05,harami/harami,100.0,100.0,100.79610613983228
+23.0,2023-04-06,harami/harami,100.0,100.0,100.38867675952515
+24.0,2023-04-10,harami/harami,100.0,100.0,99.87609796483108
+25.0,2023-04-11,harami/harami,100.0,100.0,100.09856084225748
+26.0,2023-04-12,harami/harami,100.0,100.0,100.3285556221864
+27.0,2023-04-13,harami/harami,100.0,100.0,100.11708681271163
+28.0,2023-04-17,harami/harami,100.0,100.0,99.11045177181884
+29.0,2023-04-18,harami/harami,100.0,100.0,99.40872198394742
+30.0,2023-04-19,harami/harami,100.0,100.07788889927409,99.75557047245992
+31.0,2023-04-20,harami/harami,100.0,100.0,99.91666005238513
+32.0,2023-04-21,harami/harami,100.0,100.0,99.8818010459332
+33.0,2023-04-24,harami/harami,100.0,100.0,100.22843363424076
+34.0,2023-04-25,harami/harami,100.0,100.0,100.0022520557046
+35.0,2023-04-26,harami/harami,100.0,100.0,100.28507426564532
+36.0,2023-04-27,harami/harami,100.0,100.0,100.6180844434714
+37.0,2023-04-28,harami/harami,100.0,100.0,100.54873429004368
+38.0,2023-05-02,harami/harami,100.0,100.10151836158192,100.06206965042372
+39.0,2023-05-03,harami/harami,100.0,100.0,99.82830769910235
+40.0,2023-05-04,harami/harami,100.0,100.0,100.87163320612795
+41.0,2023-05-05,harami/harami,100.0,100.0,99.73864759097658
+42.0,2023-05-08,harami/harami,100.0,100.0,100.82309636546252
+43.0,2023-05-09,harami/harami,100.0,100.0,99.75359769223203
+44.0,2023-05-10,harami/harami,100.0,100.0,99.98634894286214
+45.0,2023-05-11,harami/harami,100.0,100.0,99.70966019893451
+46.0,2023-05-12,harami/harami,100.0,100.0,100.21041110883098
+47.0,2023-05-15,harami/harami,100.0,100.0,100.24701051839492
+48.0,2023-05-16,harami/harami,100.0,100.0,99.155832001888
+49.0,2023-05-17,harami/harami,100.0,100.0,99.43990448322307
+50.0,2023-05-18,harami/harami,100.0,100.0,99.16418318523584
+51.0,2023-05-19,harami/harami,100.0,100.0,100.10612471578646
+52.0,2023-05-22,harami/harami,100.0,100.0,100.56150452445182
+53.0,2023-05-23,harami/harami,100.0,100.0,99.84125601076082
+0.0,2023-03-01,marubuzu/shootingStar+hangingMan,100.0,100.0,100.56307279335948
+1.0,2023-03-02,marubuzu/shootingStar+hangingMan,100.0,100.0,99.40963751686137
+2.0,2023-03-03,marubuzu/shootingStar+hangingMan,100.0,100.0,100.80825155791132
+3.0,2023-03-06,marubuzu/shootingStar+hangingMan,100.0,100.0,100.22341186684652
+4.0,2023-03-08,marubuzu/shootingStar+hangingMan,100.0,100.0,100.48540254447164
+5.0,2023-03-09,marubuzu/shootingStar+hangingMan,100.0,100.0,98.93512566079885
+6.0,2023-03-10,marubuzu/shootingStar+hangingMan,100.0,100.0,99.85553606438964
+7.0,2023-03-13,marubuzu/shootingStar+hangingMan,100.0,100.0,98.63792123706368
+8.0,2023-03-14,marubuzu/shootingStar+hangingMan,100.0,100.0,99.46446937889522
+9.0,2023-03-15,marubuzu/shootingStar+hangingMan,100.0,100.0,98.87804409181862
+10.0,2023-03-16,marubuzu/shootingStar+hangingMan,100.0,100.0,100.0912051733928
+11.0,2023-03-17,marubuzu/shootingStar+hangingMan,100.0,100.0,100.06954265477624
+12.0,2023-03-20,marubuzu/shootingStar+hangingMan,100.0,100.0,99.62997902335556
+13.0,2023-03-21,marubuzu/shootingStar+hangingMan,100.0,100.0,100.27285409486296
+14.0,2023-03-22,marubuzu/shootingStar+hangingMan,100.0,100.0,99.79799097072032
+15.0,2023-03-23,marubuzu/shootingStar+hangingMan,100.0,100.0,99.83067600921775
+16.0,2023-03-24,marubuzu/shootingStar+hangingMan,100.0,100.0,99.15906349187756
+17.0,2023-03-27,marubuzu/shootingStar+hangingMan,100.0,100.0,99.8772395683072
+18.0,2023-03-28,marubuzu/shootingStar+hangingMan,100.0,100.0,99.56023309407428
+19.0,2023-03-29,marubuzu/shootingStar+hangingMan,100.0,100.0,100.81903482885971
+20.0,2023-03-31,marubuzu/shootingStar+hangingMan,100.0,100.0,100.85965712492774
+21.0,2023-04-03,marubuzu/shootingStar+hangingMan,100.0,100.0,99.83790405641513
+22.0,2023-04-05,marubuzu/shootingStar+hangingMan,100.0,100.0,100.79610613983228
+23.0,2023-04-06,marubuzu/shootingStar+hangingMan,100.0,100.0,100.38867675952515
+24.0,2023-04-10,marubuzu/shootingStar+hangingMan,100.0,100.0,99.87609796483108
+25.0,2023-04-11,marubuzu/shootingStar+hangingMan,100.0,100.0,100.09856084225748
+26.0,2023-04-12,marubuzu/shootingStar+hangingMan,100.0,100.0,100.3285556221864
+27.0,2023-04-13,marubuzu/shootingStar+hangingMan,100.0,100.0,100.11708681271163
+28.0,2023-04-17,marubuzu/shootingStar+hangingMan,100.0,100.0,99.11045177181884
+29.0,2023-04-18,marubuzu/shootingStar+hangingMan,100.0,100.0,99.40872198394742
+30.0,2023-04-19,marubuzu/shootingStar+hangingMan,100.0,100.0,99.75557047245992
+31.0,2023-04-20,marubuzu/shootingStar+hangingMan,100.0,100.0,99.91666005238513
+32.0,2023-04-21,marubuzu/shootingStar+hangingMan,100.0,100.0,99.8818010459332
+33.0,2023-04-24,marubuzu/shootingStar+hangingMan,100.0,100.0,100.22843363424076
+34.0,2023-04-25,marubuzu/shootingStar+hangingMan,100.0,100.0,100.0022520557046
+35.0,2023-04-26,marubuzu/shootingStar+hangingMan,100.0,100.0,100.28507426564532
+36.0,2023-04-27,marubuzu/shootingStar+hangingMan,100.0,100.0,100.6180844434714
+37.0,2023-04-28,marubuzu/shootingStar+hangingMan,100.0,100.0,100.54873429004368
+38.0,2023-05-02,marubuzu/shootingStar+hangingMan,100.0,100.0,100.06206965042372
+39.0,2023-05-03,marubuzu/shootingStar+hangingMan,100.0,100.0,99.82830769910235
+40.0,2023-05-04,marubuzu/shootingStar+hangingMan,100.0,100.0,100.87163320612795
+41.0,2023-05-05,marubuzu/shootingStar+hangingMan,100.0,100.0,99.73864759097658
+42.0,2023-05-08,marubuzu/shootingStar+hangingMan,100.0,100.0,100.82309636546252
+43.0,2023-05-09,marubuzu/shootingStar+hangingMan,100.0,100.0,99.75359769223203
+44.0,2023-05-10,marubuzu/shootingStar+hangingMan,100.0,100.0,99.98634894286214
+45.0,2023-05-11,marubuzu/shootingStar+hangingMan,100.0,100.0,99.70966019893451
+46.0,2023-05-12,marubuzu/shootingStar+hangingMan,100.0,100.0,100.21041110883098
+47.0,2023-05-15,marubuzu/shootingStar+hangingMan,100.0,100.0,100.24701051839492
+48.0,2023-05-16,marubuzu/shootingStar+hangingMan,100.0,100.0,99.155832001888
+49.0,2023-05-17,marubuzu/shootingStar+hangingMan,100.0,100.0,99.43990448322307
+50.0,2023-05-18,marubuzu/shootingStar+hangingMan,100.0,100.0,99.16418318523584
+51.0,2023-05-19,marubuzu/shootingStar+hangingMan,100.0,100.0,100.10612471578646
+52.0,2023-05-22,marubuzu/shootingStar+hangingMan,100.0,100.0,100.56150452445182
+53.0,2023-05-23,marubuzu/shootingStar+hangingMan,100.0,100.0,99.84125601076082
+0.0,2023-03-01,morningStar/harami,100.0,100.0,100.56307279335948
+1.0,2023-03-02,morningStar/harami,100.0,100.0,99.40963751686137
+2.0,2023-03-03,morningStar/harami,100.0,100.0,100.80825155791132
+3.0,2023-03-06,morningStar/harami,100.0,100.0,100.22341186684652
+4.0,2023-03-08,morningStar/harami,100.0,100.0,100.48540254447164
+5.0,2023-03-09,morningStar/harami,100.0,100.0,98.93512566079885
+6.0,2023-03-10,morningStar/harami,100.0,100.0,99.85553606438964
+7.0,2023-03-13,morningStar/harami,100.0,100.0,98.63792123706368
+8.0,2023-03-14,morningStar/harami,100.0,100.0,99.46446937889522
+9.0,2023-03-15,morningStar/harami,100.0,100.0,98.87804409181862
+10.0,2023-03-16,morningStar/harami,100.0,100.0,100.0912051733928
+11.0,2023-03-17,morningStar/harami,100.0,100.0,100.06954265477624
+12.0,2023-03-20,morningStar/harami,100.0,100.0,99.62997902335556
+13.0,2023-03-21,morningStar/harami,100.0,100.18463810930577,100.27285409486296
+14.0,2023-03-22,morningStar/harami,100.0,100.0,99.79799097072032
+15.0,2023-03-23,morningStar/harami,100.0,100.0,99.83067600921775
+16.0,2023-03-24,morningStar/harami,100.0,100.0,99.15906349187756
+17.0,2023-03-27,morningStar/harami,100.0,100.0,99.8772395683072
+18.0,2023-03-28,morningStar/harami,100.0,100.0,99.56023309407428
+19.0,2023-03-29,morningStar/harami,100.0,100.0,100.81903482885971
+20.0,2023-03-31,morningStar/harami,100.0,100.0,100.85965712492774
+21.0,2023-04-03,morningStar/harami,100.0,100.0,99.83790405641513
+22.0,2023-04-05,morningStar/harami,100.0,100.0,100.79610613983228
+23.0,2023-04-06,morningStar/harami,100.0,100.0,100.38867675952515
+24.0,2023-04-10,morningStar/harami,100.0,100.0,99.87609796483108
+25.0,2023-04-11,morningStar/harami,100.0,100.0,100.09856084225748
+26.0,2023-04-12,morningStar/harami,100.0,100.0,100.3285556221864
+27.0,2023-04-13,morningStar/harami,100.0,100.0,100.11708681271163
+28.0,2023-04-17,morningStar/harami,100.0,100.0,99.11045177181884
+29.0,2023-04-18,morningStar/harami,100.0,100.0,99.40872198394742
+30.0,2023-04-19,morningStar/harami,100.0,100.0,99.75557047245992
+31.0,2023-04-20,morningStar/harami,100.0,100.0,99.91666005238513
+32.0,2023-04-21,morningStar/harami,100.0,100.0,99.8818010459332
+33.0,2023-04-24,morningStar/harami,100.0,100.0,100.22843363424076
+34.0,2023-04-25,morningStar/harami,100.0,100.0,100.0022520557046
+35.0,2023-04-26,morningStar/harami,100.0,100.0,100.28507426564532
+36.0,2023-04-27,morningStar/harami,100.0,100.0,100.6180844434714
+37.0,2023-04-28,morningStar/harami,100.0,100.0,100.54873429004368
+38.0,2023-05-02,morningStar/harami,100.0,100.0,100.06206965042372
+39.0,2023-05-03,morningStar/harami,100.0,100.0,99.82830769910235
+40.0,2023-05-04,morningStar/harami,100.0,100.0,100.87163320612795
+41.0,2023-05-05,morningStar/harami,100.0,100.0,99.73864759097658
+42.0,2023-05-08,morningStar/harami,100.0,100.0,100.82309636546252
+43.0,2023-05-09,morningStar/harami,100.0,100.0,99.75359769223203
+44.0,2023-05-10,morningStar/harami,100.0,100.0,99.98634894286214
+45.0,2023-05-11,morningStar/harami,100.0,100.0,99.70966019893451
+46.0,2023-05-12,morningStar/harami,100.0,100.0,100.21041110883098
+47.0,2023-05-15,morningStar/harami,100.0,100.0,100.24701051839492
+48.0,2023-05-16,morningStar/harami,100.0,100.0,99.155832001888
+49.0,2023-05-17,morningStar/harami,100.0,100.0,99.43990448322307
+50.0,2023-05-18,morningStar/harami,100.0,100.0,99.16418318523584
+51.0,2023-05-19,morningStar/harami,100.0,100.0,100.10612471578646
+52.0,2023-05-22,morningStar/harami,100.0,100.0,100.56150452445182
+53.0,2023-05-23,morningStar/harami,100.0,100.0,99.84125601076082
+0.0,2023-03-01,marubuzu/HangingMan,100.0,100.0,100.56307279335948
+1.0,2023-03-02,marubuzu/HangingMan,100.0,100.0,99.40963751686137
+2.0,2023-03-03,marubuzu/HangingMan,100.0,100.0,100.80825155791132
+3.0,2023-03-06,marubuzu/HangingMan,100.0,100.0,100.22341186684652
+4.0,2023-03-08,marubuzu/HangingMan,100.0,100.0,100.48540254447164
+5.0,2023-03-09,marubuzu/HangingMan,100.0,100.0,98.93512566079885
+6.0,2023-03-10,marubuzu/HangingMan,100.0,100.0,99.85553606438964
+7.0,2023-03-13,marubuzu/HangingMan,100.0,100.0,98.63792123706368
+8.0,2023-03-14,marubuzu/HangingMan,100.0,100.0,99.46446937889522
+9.0,2023-03-15,marubuzu/HangingMan,100.0,100.0,98.87804409181862
+10.0,2023-03-16,marubuzu/HangingMan,100.0,100.0,100.0912051733928
+11.0,2023-03-17,marubuzu/HangingMan,100.0,100.0,100.06954265477624
+12.0,2023-03-20,marubuzu/HangingMan,100.0,100.0,99.62997902335556
+13.0,2023-03-21,marubuzu/HangingMan,100.0,100.0,100.27285409486296
+14.0,2023-03-22,marubuzu/HangingMan,100.0,100.0,99.79799097072032
+15.0,2023-03-23,marubuzu/HangingMan,100.0,100.0,99.83067600921775
+16.0,2023-03-24,marubuzu/HangingMan,100.0,100.0,99.15906349187756
+17.0,2023-03-27,marubuzu/HangingMan,100.0,100.0,99.8772395683072
+18.0,2023-03-28,marubuzu/HangingMan,100.0,100.0,99.56023309407428
+19.0,2023-03-29,marubuzu/HangingMan,100.0,100.0,100.81903482885971
+20.0,2023-03-31,marubuzu/HangingMan,100.0,100.0,100.85965712492774
+21.0,2023-04-03,marubuzu/HangingMan,100.0,100.0,99.83790405641513
+22.0,2023-04-05,marubuzu/HangingMan,100.0,100.0,100.79610613983228
+23.0,2023-04-06,marubuzu/HangingMan,100.0,100.0,100.38867675952515
+24.0,2023-04-10,marubuzu/HangingMan,100.0,100.0,99.87609796483108
+25.0,2023-04-11,marubuzu/HangingMan,100.0,100.0,100.09856084225748
+26.0,2023-04-12,marubuzu/HangingMan,100.0,100.0,100.3285556221864
+27.0,2023-04-13,marubuzu/HangingMan,100.0,100.0,100.11708681271163
+28.0,2023-04-17,marubuzu/HangingMan,100.0,100.135475564015,99.11045177181884
+29.0,2023-04-18,marubuzu/HangingMan,100.0,100.0,99.40872198394742
+30.0,2023-04-19,marubuzu/HangingMan,100.0,100.0,99.75557047245992
+31.0,2023-04-20,marubuzu/HangingMan,100.0,100.0,99.91666005238513
+32.0,2023-04-21,marubuzu/HangingMan,100.0,100.0,99.8818010459332
+33.0,2023-04-24,marubuzu/HangingMan,100.0,100.0,100.22843363424076
+34.0,2023-04-25,marubuzu/HangingMan,100.0,100.0,100.0022520557046
+35.0,2023-04-26,marubuzu/HangingMan,100.0,100.0,100.28507426564532
+36.0,2023-04-27,marubuzu/HangingMan,100.0,100.0,100.6180844434714
+37.0,2023-04-28,marubuzu/HangingMan,100.0,100.06183706212676,100.54873429004368
+38.0,2023-05-02,marubuzu/HangingMan,100.0,100.0,100.06206965042372
+39.0,2023-05-03,marubuzu/HangingMan,100.0,100.0,99.82830769910235
+40.0,2023-05-04,marubuzu/HangingMan,100.0,100.0,100.87163320612795
+41.0,2023-05-05,marubuzu/HangingMan,100.0,100.0,99.73864759097658
+42.0,2023-05-08,marubuzu/HangingMan,100.0,100.0,100.82309636546252
+43.0,2023-05-09,marubuzu/HangingMan,100.0,100.0,99.75359769223203
+44.0,2023-05-10,marubuzu/HangingMan,100.0,100.0,99.98634894286214
+45.0,2023-05-11,marubuzu/HangingMan,100.0,100.0,99.70966019893451
+46.0,2023-05-12,marubuzu/HangingMan,100.0,100.0,100.21041110883098
+47.0,2023-05-15,marubuzu/HangingMan,100.0,100.0,100.24701051839492
+48.0,2023-05-16,marubuzu/HangingMan,100.0,100.0,99.155832001888
+49.0,2023-05-17,marubuzu/HangingMan,100.0,100.0,99.43990448322307
+50.0,2023-05-18,marubuzu/HangingMan,100.0,100.0,99.16418318523584
+51.0,2023-05-19,marubuzu/HangingMan,100.0,100.0,100.10612471578646
+52.0,2023-05-22,marubuzu/HangingMan,100.0,100.0,100.56150452445182
+53.0,2023-05-23,marubuzu/HangingMan,100.0,100.0,99.84125601076082
+0.0,2023-03-01,hammer/marubuzu,100.0,100.0,100.56307279335948
+1.0,2023-03-02,hammer/marubuzu,100.0,100.0,99.40963751686135
+2.0,2023-03-03,hammer/marubuzu,100.0,100.0,100.80825155791132
+3.0,2023-03-06,hammer/marubuzu,100.0,100.0,100.22341186684653
+4.0,2023-03-08,hammer/marubuzu,100.0,100.0,100.48540254447165
+5.0,2023-03-09,hammer/marubuzu,100.0,100.0,98.93512566079883
+6.0,2023-03-10,hammer/marubuzu,100.0,100.0,99.85553606438964
+7.0,2023-03-13,hammer/marubuzu,100.0,100.0,98.63792123706368
+8.0,2023-03-14,hammer/marubuzu,100.0,100.0,99.46446937889522
+9.0,2023-03-15,hammer/marubuzu,100.0,100.0,98.87804409181862
+10.0,2023-03-16,hammer/marubuzu,100.0,100.0,100.09120517339281
+11.0,2023-03-17,hammer/marubuzu,100.0,100.0,100.06954265477624
+12.0,2023-03-20,hammer/marubuzu,100.0,100.0,99.62997902335557
+13.0,2023-03-21,hammer/marubuzu,100.0,100.0,100.27285409486295
+14.0,2023-03-22,hammer/marubuzu,100.0,100.0,99.79799097072033
+15.0,2023-03-23,hammer/marubuzu,100.0,100.0,99.83067600921777
+16.0,2023-03-24,hammer/marubuzu,100.0,100.0,99.15906349187757
+17.0,2023-03-27,hammer/marubuzu,100.0,100.0,99.8772395683072
+18.0,2023-03-28,hammer/marubuzu,100.0,100.0,99.56023309407429
+19.0,2023-03-29,hammer/marubuzu,100.0,100.0,100.81903482885971
+20.0,2023-03-31,hammer/marubuzu,100.0,100.0,100.85965712492774
+21.0,2023-04-03,hammer/marubuzu,100.0,100.0,99.83790405641513
+22.0,2023-04-05,hammer/marubuzu,100.0,100.0,100.79610613983229
+23.0,2023-04-06,hammer/marubuzu,100.0,100.18278929042965,100.38867675952515
+24.0,2023-04-10,hammer/marubuzu,100.0,100.0,99.87609796483109
+25.0,2023-04-11,hammer/marubuzu,100.0,100.0,100.09856084225747
+26.0,2023-04-12,hammer/marubuzu,100.0,100.0,100.32855562218639
+27.0,2023-04-13,hammer/marubuzu,100.0,100.0,100.11708681271165
+28.0,2023-04-17,hammer/marubuzu,100.0,100.0,99.11045177181883
+29.0,2023-04-18,hammer/marubuzu,100.0,100.0,99.40872198394742
+30.0,2023-04-19,hammer/marubuzu,100.0,100.0,99.75557047245991
+31.0,2023-04-20,hammer/marubuzu,100.0,100.0,99.91666005238513
+32.0,2023-04-21,hammer/marubuzu,100.0,100.0,99.8818010459332
+33.0,2023-04-24,hammer/marubuzu,100.0,100.0,100.22843363424077
+34.0,2023-04-25,hammer/marubuzu,100.0,100.0,100.0022520557046
+35.0,2023-04-26,hammer/marubuzu,100.0,100.0,100.28507426564532
+36.0,2023-04-27,hammer/marubuzu,100.0,100.0,100.61808444347139
+37.0,2023-04-28,hammer/marubuzu,100.0,100.0,100.54873429004368
+38.0,2023-05-02,hammer/marubuzu,100.0,100.0,100.06206965042372
+39.0,2023-05-03,hammer/marubuzu,100.0,100.0,99.82830769910235
+40.0,2023-05-04,hammer/marubuzu,100.0,100.0,100.87163320612797
+41.0,2023-05-05,hammer/marubuzu,100.0,100.0,99.73864759097658
+42.0,2023-05-08,hammer/marubuzu,100.0,100.0,100.82309636546252
+43.0,2023-05-09,hammer/marubuzu,100.0,100.0,99.75359769223203
+44.0,2023-05-10,hammer/marubuzu,100.0,100.0,99.98634894286214
+45.0,2023-05-11,hammer/marubuzu,100.0,100.0,99.70966019893451
+46.0,2023-05-12,hammer/marubuzu,100.0,100.0,100.21041110883098
+47.0,2023-05-15,hammer/marubuzu,100.0,100.0,100.24701051839492
+48.0,2023-05-16,hammer/marubuzu,100.0,100.0,99.15583200188799
+49.0,2023-05-17,hammer/marubuzu,100.0,100.0,99.43990448322309
+50.0,2023-05-18,hammer/marubuzu,100.0,100.0,99.16418318523583
+51.0,2023-05-19,hammer/marubuzu,100.0,100.0,100.10612471578646
+52.0,2023-05-22,hammer/marubuzu,100.0,100.0,100.56150452445182
+53.0,2023-05-23,hammer/marubuzu,100.0,100.0,99.84125601076082
